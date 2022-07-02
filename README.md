@@ -25,5 +25,17 @@
 [gmail]: mailto:emrebahadir.ebitet@gmail.com@gmail.com
 <br />
 
+ 
+ ### GitHub Analytics 📊
+
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmreBhdr99&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+</a>
+
+<br />
+<br />
+ 
+ 
+ 
+ ----
  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=EmreBhdr99&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmreBhdr99&sh
