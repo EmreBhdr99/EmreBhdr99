@@ -15,7 +15,7 @@
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[<img align="left" height="24" width="24" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/medium.svg" />][medium]
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="78.5" height="28" role="img" aria-label="MEDIUM"><title>MEDIUM</title><g shape-rendering="crispEdges"><rect width="78.5" height="28" fill="black"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="392.5" y="175" textLength="545" fill="#fff" font-weight="bold">MEDIUM</text></g></svg>[medium]
 
 
 <br />
