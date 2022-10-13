@@ -15,7 +15,7 @@
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[<img align="left" height="24" width="24" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/medium.svg" />][medium]
+[<img align="left" height="24" width="24" src="[https://github.com/simple-icons/simple-icons/blob/develop/icons/medium.svg](https://camo.githubusercontent.com/7848a11c0890b40f0c7ef42b8a3ddb41d343b5705d18cf2ae8d4a3fdad63993a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d6d656469756d2d626c61636b3f267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465)" />][medium]
 
 
 <br />
