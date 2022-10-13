@@ -15,7 +15,7 @@
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/Medium/medium-logos/master/01_Logo/02_White/PNG/RGB/Medium-Logo-White-RGB%401x.png" />][medium]
+[<img align="left" height="24" width="24" src="[<img align="left" height="24" width="24" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/medium.svg" />][medium]" />][medium]
 
 
 
