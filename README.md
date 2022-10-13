@@ -15,6 +15,7 @@
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="24" width="24" src="[https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.design%2Flogos-and-brand-guidelines-f1a01a733592&psig=AOvVaw3gVJscymNbZoaqday9SeZu&ust=1665771082413000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCDrIHn3foCFQAAAAAdAAAAABAD)" />][medium]
 
 
 <br />
