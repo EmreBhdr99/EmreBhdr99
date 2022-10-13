@@ -23,6 +23,7 @@
 [instagram]: https://www.instagram.com/emreebhdr
 [linkedin]: https://www.linkedin.com/in/emrebhdr/
 [gmail]: mailto:emrebahadir.ebitet@gmail.com@gmail.com
+[medium]: https://medium.com/@emrebhdr
 <br />
 
  
