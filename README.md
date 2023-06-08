@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Data Analyst 👨‍🎓🚀 !
-- 🔭 I’m currently working as Freelance.
+- 🔭 I’m currently working as Business Intelligence Specialist.
 - 🌱 I’m currently learning Machine Learning 😂
 - 👯 I am looking for a good team and working environment where I can work with fun.
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
